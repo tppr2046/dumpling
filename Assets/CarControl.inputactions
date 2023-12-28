@@ -24,19 +24,10 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "Right",
+                    "name": "Steer",
                     "type": "Value",
-                    "id": "bbb42b32-65ad-4b03-beec-d41f92a299f9",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": true
-                },
-                {
-                    "name": "Left",
-                    "type": "Value",
-                    "id": "63ece5cc-2c8f-424a-97f7-959633dad26d",
-                    "expectedControlType": "Button",
+                    "id": "f3ff2f66-cf7c-4490-afeb-bc5978375b80",
+                    "expectedControlType": "Axis",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -47,6 +38,17 @@
                     "name": "",
                     "id": "e6f26858-c7db-43d4-b48a-02ba42d55e50",
                     "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Forward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fc4840fd-75e0-4521-88ee-482412d6b890",
+                    "path": "<Keyboard>/w",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -78,6 +80,17 @@
                 },
                 {
                     "name": "",
+                    "id": "227a7609-cf23-4ac8-8bfd-bb2e331e5651",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Break",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "e2ad88ab-28ee-462a-9492-aa8cf40a92d2",
                     "path": "<Gamepad>/leftTrigger",
                     "interactions": "",
@@ -89,67 +102,56 @@
                 },
                 {
                     "name": "",
-                    "id": "44d45e7f-5308-4a2d-8297-ad86fed1eca8",
+                    "id": "c1215506-d0a8-4e1f-8687-5702ed63cfec",
+                    "path": "<Joystick>/stick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Steer",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3bd0a40d-6262-4bed-b736-585efcc37372",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "Invert",
+                    "groups": "",
+                    "action": "Steer",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aa8b270d-6409-4b38-83bf-34a8334dfff5",
                     "path": "<Keyboard>/rightArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Right",
+                    "action": "Steer",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-                    "id": "8099d014-24f5-4a19-b512-7ccbfdbea1ac",
-                    "path": "<Gamepad>/leftStick/right",
+                    "id": "1a16c231-9afa-4003-b2fc-e34dfa9ed21f",
+                    "path": "<Keyboard>/a",
                     "interactions": "",
-                    "processors": "",
+                    "processors": "Invert",
                     "groups": "",
-                    "action": "Right",
+                    "action": "Steer",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-                    "id": "4cb2823d-f026-4fd2-8a60-c975ba90fab5",
-                    "path": "<Gamepad>/dpad/right",
+                    "id": "15a7eb5f-1b04-44fc-a3aa-e7bcba15ff86",
+                    "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Right",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "ffb1acfd-16f9-4aee-aff7-0e1baba5358c",
-                    "path": "<Keyboard>/leftArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Left",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "e9a0307f-a1d4-4b12-897f-a374c6b12f86",
-                    "path": "<Gamepad>/leftStick/left",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Left",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "df2f7b3f-8c03-4e7c-9bfa-b3ce3f0d55b4",
-                    "path": "<Gamepad>/dpad/left",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Left",
+                    "action": "Steer",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
