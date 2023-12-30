@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60603a87fa07440988214c0d708ebd86
+timeCreated: 1430921797
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Materials/Blue.mat
+  uploadId: 633561

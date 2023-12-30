@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e36836648d2dc4e3295302f18a52c03b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/PropertyDrawers/ButtonAttribute/Editor/ButtonDrawer.cs
+  uploadId: 633561

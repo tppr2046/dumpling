@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a065007e79dfb4df3999a0c459d989b8
+timeCreated: 1440429652
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Features/PickUps/GasTank.prefab
+  uploadId: 633561

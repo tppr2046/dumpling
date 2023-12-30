@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 44ac6381fb773461b85fa6b078e998e3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/External Libraries/Rotorz/Reorderable
+    List Field/Editor/IReorderableListAdaptor.cs
+  uploadId: 633561

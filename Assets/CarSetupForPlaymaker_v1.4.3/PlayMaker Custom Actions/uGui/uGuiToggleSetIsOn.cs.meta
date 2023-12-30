@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e7d2d178cd224be5b0db6a6c2010f83
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/uGui/uGuiToggleSetIsOn.cs
+  uploadId: 633561

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 01a668cc78047034a8a0c5ca2d24c6f7
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader
+  uploadId: 633561

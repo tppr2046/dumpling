@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c60ef6c05759048d5b919a77bb167cc3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker uGui/Editor/PlayMakerUGuiCanvasRaycastFilterEventsProxyInspector.cs
+  uploadId: 633561

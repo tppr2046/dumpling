@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32944f07a57a74ba1b2da5e3a22c0cb3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/PlayMakerUtils_Fsm.cs
+  uploadId: 633561

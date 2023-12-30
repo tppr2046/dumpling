@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eab497a320a764a2eb340a7737428a5b
+timeCreated: 1430921798
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Materials/Orange2.mat
+  uploadId: 633561

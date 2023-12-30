@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d58eb2a7d428547a286db663939b1df3
+timeCreated: 1443698489
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Features/Trails/Trail_Skid.prefab
+  uploadId: 633561

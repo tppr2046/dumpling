@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd494968fa6f04cc285a1e2c4b6dd3db
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/Event Properties/Actions/GetEventProperties.cs
+  uploadId: 633561

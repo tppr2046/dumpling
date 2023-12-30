@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19ed17d1953314c838d2d1d68d7c62ba
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/External Libraries/Rotorz/Reorderable
+    List Field/Editor/ReorderableListFlags.cs
+  uploadId: 633561

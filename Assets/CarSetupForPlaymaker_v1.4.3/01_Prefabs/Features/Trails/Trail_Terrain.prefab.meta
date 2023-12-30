@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c971edb8d35ac4822a9301e57a267fbe
+timeCreated: 1443698495
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Features/Trails/Trail_Terrain.prefab
+  uploadId: 633561

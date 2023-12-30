@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc8fdadf1d34842e7aebe7198cbe6ca7
+timeCreated: 1436309626
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Materials/Car03_UV-01.mat
+  uploadId: 633561

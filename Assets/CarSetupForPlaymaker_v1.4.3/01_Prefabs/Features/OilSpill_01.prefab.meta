@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1c19db4df4864be08ab76912b23719c
+timeCreated: 1439577915
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Features/OilSpill_01.prefab
+  uploadId: 633561

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a636faa4f68b4ccba5bbdce080d3ebc
+timeCreated: 1444305775
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_Player/Bus01.prefab
+  uploadId: 633561

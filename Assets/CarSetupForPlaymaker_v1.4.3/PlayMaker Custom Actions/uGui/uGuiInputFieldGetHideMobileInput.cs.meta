@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fc3f2bd439bdf4a3aac97c315877bdf4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/uGui/uGuiInputFieldGetHideMobileInput.cs
+  uploadId: 633561

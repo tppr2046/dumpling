@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 234ffd4fbcfa34ce9be2a92ce79e9b13
+timeCreated: 1430144398
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/Trigonometry/GetSignedAngleToTarget.cs
+  uploadId: 633561

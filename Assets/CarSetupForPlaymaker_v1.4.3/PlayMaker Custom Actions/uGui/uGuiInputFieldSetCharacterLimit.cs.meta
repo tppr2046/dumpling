@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2f6015ed70f294be7aa2c6bd711256a6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/uGui/uGuiInputFieldSetCharacterLimit.cs
+  uploadId: 633561

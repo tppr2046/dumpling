@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3ae0bdb2eddbf40e2acd54a99387a145
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/uGui/uGuiScrollbarSetNumberofSteps.cs
+  uploadId: 633561

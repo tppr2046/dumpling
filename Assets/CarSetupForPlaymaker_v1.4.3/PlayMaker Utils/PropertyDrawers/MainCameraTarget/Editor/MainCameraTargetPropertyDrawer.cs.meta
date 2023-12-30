@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b284e45e6c1e34df69d2fe441f623c1a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/PropertyDrawers/MainCameraTarget/Editor/MainCameraTargetPropertyDrawer.cs
+  uploadId: 633561

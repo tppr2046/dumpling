@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f072af46ee56545db84ef6fdb9dbdfd3
+labels:
+- Barrier
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Environment/Barrier.prefab
+  uploadId: 633561

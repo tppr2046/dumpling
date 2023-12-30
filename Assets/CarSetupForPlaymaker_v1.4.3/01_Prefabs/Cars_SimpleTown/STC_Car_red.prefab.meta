@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cf56b6b786c64cd39a60ef681b80a9c
+timeCreated: 1444669179
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_SimpleTown/STC_Car_red.prefab
+  uploadId: 633561

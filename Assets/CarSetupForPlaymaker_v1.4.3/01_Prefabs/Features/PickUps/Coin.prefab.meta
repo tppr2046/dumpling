@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bfaf0e5529df4300914eed3007f83b0
+timeCreated: 1440429648
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Features/PickUps/Coin.prefab
+  uploadId: 633561

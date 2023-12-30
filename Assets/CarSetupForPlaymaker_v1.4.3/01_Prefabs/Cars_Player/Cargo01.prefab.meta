@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afbf4936152e6421cbd8aa7bf42ddfc3
+timeCreated: 1444310370
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_Player/Cargo01.prefab
+  uploadId: 633561

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab52af8da8be24448ba64435b5b8e1c7
+timeCreated: 1440429656
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Features/PickUps/OilDrop.prefab
+  uploadId: 633561

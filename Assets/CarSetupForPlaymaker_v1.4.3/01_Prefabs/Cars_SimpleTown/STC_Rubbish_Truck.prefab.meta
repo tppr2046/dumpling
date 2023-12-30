@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a115c9ebb1d6462f854bfe7bcc4f999
+timeCreated: 1444670600
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_SimpleTown/STC_Rubbish_Truck.prefab
+  uploadId: 633561

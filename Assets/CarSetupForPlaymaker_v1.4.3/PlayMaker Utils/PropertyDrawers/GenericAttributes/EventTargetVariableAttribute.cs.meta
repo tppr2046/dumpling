@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fad0c4d38bebc43c2b4ddfaa6d4ab49b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/PropertyDrawers/GenericAttributes/EventTargetVariableAttribute.cs
+  uploadId: 633561

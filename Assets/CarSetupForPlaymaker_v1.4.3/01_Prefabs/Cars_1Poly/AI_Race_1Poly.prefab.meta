@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d408e64c7e3a74b6086d63ecc8bf9538
+timeCreated: 1444927212
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_1Poly/AI_Race_1Poly.prefab
+  uploadId: 633561

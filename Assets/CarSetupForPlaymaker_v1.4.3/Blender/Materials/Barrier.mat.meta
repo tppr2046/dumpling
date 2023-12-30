@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f7fc2ffdb2304db9a3371ad174be6d3
+timeCreated: 1444847209
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Blender/Materials/Barrier.mat
+  uploadId: 633561

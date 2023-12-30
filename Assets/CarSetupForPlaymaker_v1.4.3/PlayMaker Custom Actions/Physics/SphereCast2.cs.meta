@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 55f60f5fae25542448c9dd292b89967d
+timeCreated: 1454012867
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/Physics/SphereCast2.cs
+  uploadId: 633561

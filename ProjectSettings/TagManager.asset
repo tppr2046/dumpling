@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - wall
+  - Car
+  - CarWaypointGroup
+  - Ped
+  - PedWaypoint
+  - Coin
+  - Terrain
   layers:
   - Default
   - TransparentFX
@@ -14,15 +20,15 @@ TagManager:
   - UI
   - 
   - 
+  - RoadArea
+  - CarTrafficBlock
+  - Vehicle
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - IgnoreColl
+  - IgnoreRayAndColl
   - 
   - 
   - 

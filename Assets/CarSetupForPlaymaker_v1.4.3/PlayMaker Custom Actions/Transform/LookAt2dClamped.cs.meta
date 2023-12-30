@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9188e0c761e2e42148e826123ce0add0
+timeCreated: 1435922324
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/Transform/LookAt2dClamped.cs
+  uploadId: 633561

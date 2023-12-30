@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c82ebb847064b44f39c75d8f101fb896
+timeCreated: 1444312070
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_Player/CarLimo.prefab
+  uploadId: 633561

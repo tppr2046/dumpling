@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e96256036699a42a186eba75ef0e7cb0
+timeCreated: 1449233869
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/PropertyDrawers/PlayMakerFsmVariable/Editor/PlayMakerFsmVariablePropertyDrawer.cs
+  uploadId: 633561

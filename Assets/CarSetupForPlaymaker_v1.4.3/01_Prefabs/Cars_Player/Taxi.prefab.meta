@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74ede89c4585c41f1ba4514ef0ce07c1
+timeCreated: 1444302295
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_Player/Taxi.prefab
+  uploadId: 633561

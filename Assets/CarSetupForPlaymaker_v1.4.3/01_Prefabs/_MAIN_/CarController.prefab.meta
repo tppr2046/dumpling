@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 059888981d492468f81d9687b52417a5
+labels:
+- Controller
+- Vehicle
+- Race
+- AI
+- Setup
+timeCreated: 1444602706
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/_MAIN_/CarController.prefab
+  uploadId: 633561

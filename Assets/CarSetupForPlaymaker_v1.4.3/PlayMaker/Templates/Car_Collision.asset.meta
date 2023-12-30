@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9049ee60129204e0e8ec2e89aba4c96d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker/Templates/Car_Collision.asset
+  uploadId: 633561

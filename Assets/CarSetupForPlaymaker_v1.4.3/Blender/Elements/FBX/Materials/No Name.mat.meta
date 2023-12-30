@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee189e2e1d2a140f695e47aa8ab4d7ce
+timeCreated: 1435316507
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Blender/Elements/FBX/Materials/No
+    Name.mat
+  uploadId: 633561

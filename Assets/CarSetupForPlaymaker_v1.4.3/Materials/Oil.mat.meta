@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3ce79f88dfb443f98271ddab8161f50
+timeCreated: 1438696355
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Materials/Oil.mat
+  uploadId: 633561

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91c1fda9997ca4149873c3ddeeea5b79
+timeCreated: 1444922443
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_1Poly/Car_1Poly_3-07.prefab
+  uploadId: 633561

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fa80675e05b1459ca6a66b9c5d4b902
+timeCreated: 1444665607
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_SimpleTown/STC_Ambo.prefab
+  uploadId: 633561

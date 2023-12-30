@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 8d11a380cf1f14b1886cf8b198770c99
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Door_Left
+    100004: Door_Right
+    100006: Panel
+    100008: Roof
+    100010: RoofTrunk
+    100012: Seat_L
+    100014: Seat_R
+    100016: //RootNode
+    100018: SteeringWheel
+    100020: SteeringWheel_Empty
+    100022: Trunk
+    100024: Window_Left
+    100026: Window_Right
+    100028: WindowSide_Left
+    100030: WindowSide_Right
+    400000: Body
+    400002: Door_Left
+    400004: Door_Right
+    400006: Panel
+    400008: Roof
+    400010: RoofTrunk
+    400012: Seat_L
+    400014: Seat_R
+    400016: //RootNode
+    400018: SteeringWheel
+    400020: SteeringWheel_Empty
+    400022: Trunk
+    400024: Window_Left
+    400026: Window_Right
+    400028: WindowSide_Left
+    400030: WindowSide_Right
+    2300000: Body
+    2300002: Door_Left
+    2300004: Door_Right
+    2300006: Panel
+    2300008: Seat_L
+    2300010: Seat_R
+    2300012: SteeringWheel
+    2300014: Trunk
+    2300016: Roof
+    2300018: RoofTrunk
+    2300020: Window_Left
+    2300022: Window_Right
+    2300024: WindowSide_Left
+    2300026: WindowSide_Right
+    3300000: Body
+    3300002: Door_Left
+    3300004: Door_Right
+    3300006: Panel
+    3300008: Seat_L
+    3300010: Seat_R
+    3300012: SteeringWheel
+    3300014: Trunk
+    3300016: Roof
+    3300018: RoofTrunk
+    3300020: Window_Left
+    3300022: Window_Right
+    3300024: WindowSide_Left
+    3300026: WindowSide_Right
+    4300000: Trunk
+    4300002: RoofTrunk
+    4300004: Roof
+    4300006: Door_Left
+    4300008: Door_Right
+    4300010: WindowSide_Right
+    4300012: Window_Right
+    4300014: Seat_R
+    4300016: Panel
+    4300018: WindowSide_Left
+    4300020: Window_Left
+    4300022: Body
+    4300024: Seat_L
+    4300026: SteeringWheel
+    9500000: //RootNode
+    13700000: Roof
+    13700002: RoofTrunk
+    13700004: Window_Left
+    13700006: Window_Right
+    13700008: WindowSide_Left
+    13700010: WindowSide_Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Blender/Sportscar2/Sportscar2.fbx
+  uploadId: 633561

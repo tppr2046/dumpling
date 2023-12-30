@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 5b3de6e218c4748f4a480fbc9f96d7ef
+timeCreated: 1445024721
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car03_Coll1
+    100004: Car03_Coll2
+    100006: Car3_Body
+    100008: Car3_Door_FL
+    100010: Car3_Door_FR
+    100012: Car3_Door_RL
+    100014: Car3_Door_RR
+    100016: Car3_Engine
+    100018: Car3_Hood
+    100020: Car3_Mirror_Inside
+    100022: Car3_Mirror_Side
+    100024: Car3_Panel
+    100026: Car3_Seat_F
+    100028: Car3_Seat_R
+    100030: Car3_Steeringwheel
+    100032: Car3_Trunk
+    100034: Car3_Wheel
+    100036: Car3_Window_F
+    100038: Car3_Window_FL
+    100040: Car3_Window_R
+    100042: Car3_Window_RL
+    400000: //RootNode
+    400002: Car03_Coll1
+    400004: Car03_Coll2
+    400006: Car3_Body
+    400008: Car3_Door_FL
+    400010: Car3_Door_FR
+    400012: Car3_Door_RL
+    400014: Car3_Door_RR
+    400016: Car3_Engine
+    400018: Car3_Hood
+    400020: Car3_Mirror_Inside
+    400022: Car3_Mirror_Side
+    400024: Car3_Panel
+    400026: Car3_Seat_F
+    400028: Car3_Seat_R
+    400030: Car3_Steeringwheel
+    400032: Car3_Trunk
+    400034: Car3_Wheel
+    400036: Car3_Window_F
+    400038: Car3_Window_FL
+    400040: Car3_Window_R
+    400042: Car3_Window_RL
+    2300000: Car03_Coll1
+    2300002: Car03_Coll2
+    2300004: Car3_Body
+    2300006: Car3_Door_FL
+    2300008: Car3_Door_FR
+    2300010: Car3_Door_RL
+    2300012: Car3_Door_RR
+    2300014: Car3_Engine
+    2300016: Car3_Hood
+    2300018: Car3_Mirror_Inside
+    2300020: Car3_Mirror_Side
+    2300022: Car3_Panel
+    2300024: Car3_Seat_F
+    2300026: Car3_Seat_R
+    2300028: Car3_Steeringwheel
+    2300030: Car3_Trunk
+    2300032: Car3_Wheel
+    2300034: Car3_Window_F
+    2300036: Car3_Window_FL
+    2300038: Car3_Window_R
+    2300040: Car3_Window_RL
+    3300000: Car03_Coll1
+    3300002: Car03_Coll2
+    3300004: Car3_Body
+    3300006: Car3_Door_FL
+    3300008: Car3_Door_FR
+    3300010: Car3_Door_RL
+    3300012: Car3_Door_RR
+    3300014: Car3_Engine
+    3300016: Car3_Hood
+    3300018: Car3_Mirror_Inside
+    3300020: Car3_Mirror_Side
+    3300022: Car3_Panel
+    3300024: Car3_Seat_F
+    3300026: Car3_Seat_R
+    3300028: Car3_Steeringwheel
+    3300030: Car3_Trunk
+    3300032: Car3_Wheel
+    3300034: Car3_Window_F
+    3300036: Car3_Window_FL
+    3300038: Car3_Window_R
+    3300040: Car3_Window_RL
+    4300000: Car03_Coll2
+    4300002: Car03_Coll1
+    4300004: Car3_Door_RR
+    4300006: Car3_Door_FR
+    4300008: Car3_Window_RL
+    4300010: Car3_Window_FL
+    4300012: Car3_Window_R
+    4300014: Car3_Window_F
+    4300016: Car3_Door_RL
+    4300018: Car3_Mirror_Side
+    4300020: Car3_Mirror_Inside
+    4300022: Car3_Trunk
+    4300024: Car3_Engine
+    4300026: Car3_Hood
+    4300028: Car3_Steeringwheel
+    4300030: Car3_Seat_R
+    4300032: Car3_Seat_F
+    4300034: Car3_Panel
+    4300036: Car3_Door_FL
+    4300038: Car3_Wheel
+    4300040: Car3_Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Blender/Car03.fbx
+  uploadId: 633561

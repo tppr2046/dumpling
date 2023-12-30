@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 347bdc469381a4a5394c7ce66086b110
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker/Templates/Wheel_Suspension.asset
+  uploadId: 633561

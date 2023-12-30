@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16714ff9ec79b4d18b4342af800c6153
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker/Templates/Wheel_Trails_Skid.asset
+  uploadId: 633561

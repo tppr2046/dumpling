@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b0e9c9e2aa2148ca9f001b7ab3019ea
+labels:
+- Box
+- Crate
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Environment/Box.prefab
+  uploadId: 633561

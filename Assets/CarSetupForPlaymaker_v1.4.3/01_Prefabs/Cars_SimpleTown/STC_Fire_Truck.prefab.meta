@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb1484425ab8449ff95ab99b3e9a3e1c
+timeCreated: 1444670097
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_SimpleTown/STC_Fire_Truck.prefab
+  uploadId: 633561

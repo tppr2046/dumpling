@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51fb93242f5944070951452a46a4f638
+timeCreated: 1444847209
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/Blender/Materials/ConeColor2.mat
+  uploadId: 633561

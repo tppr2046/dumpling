@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8cb33aeaa9d9e4da4930cf4fec25bdab
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/uGui/uGuiInputFieldMoveCaretToTextEnd.cs
+  uploadId: 633561

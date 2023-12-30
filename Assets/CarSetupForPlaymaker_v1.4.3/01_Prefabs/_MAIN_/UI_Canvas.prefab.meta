@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 569b4374b100f49e794dcf67f5c1e2aa
+labels:
+- UI
+timeCreated: 1444602753
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/_MAIN_/UI_Canvas.prefab
+  uploadId: 633561

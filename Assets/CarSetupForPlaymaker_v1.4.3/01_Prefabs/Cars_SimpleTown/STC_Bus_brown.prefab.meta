@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3db79e8b5b8744ba48fd4954fb4eb7fe
+timeCreated: 1444668538
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_SimpleTown/STC_Bus_brown.prefab
+  uploadId: 633561

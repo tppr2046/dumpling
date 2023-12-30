@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1b4ccdc5048a4ff99ee430fc8b585b2
+timeCreated: 1444671827
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_SimpleTown/STC_Van_green.prefab
+  uploadId: 633561

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1987c112b50bb496e80e7d41587cb1ee
+timeCreated: 1444669619
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/01_Prefabs/Cars_SimpleTown/STC_Cop.prefab
+  uploadId: 633561

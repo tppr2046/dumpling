@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4ee3e4f0573c4db39ac230cf575225f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Utils/Wizards/PlayMakerEventProxy/PlayMakerEventProxy.cs
+  uploadId: 633561

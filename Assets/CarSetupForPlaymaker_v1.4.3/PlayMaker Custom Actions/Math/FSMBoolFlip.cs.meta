@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 55a2cea4f2fca41be85801cf771184e9
+timeCreated: 1443717597
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26508
+  packageName: Car Setup For PlayMaker
+  packageVersion: 1.4.3
+  assetPath: Assets/CarSetupForPlaymaker_v1.4.3/PlayMaker Custom Actions/Math/FSMBoolFlip.cs
+  uploadId: 633561
