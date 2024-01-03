@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 500, y: 100}
   m_MaxSize: {x: 40480, y: 16192}
   vertical: 0
-  controlID: 137
+  controlID: 206
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 138
+  controlID: 77
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 130
+  controlID: 78
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,7 +278,7 @@ MonoBehaviour:
   - {fileID: 21}
   - {fileID: 22}
   m_Selected: 2
-  m_LastSelected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -303,7 +303,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 182
+  controlID: 130
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -375,8 +375,8 @@ MonoBehaviour:
     y: 0
     width: 404.66675
     height: 1299.3334
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 25}
   m_Panes:
   - {fileID: 25}
@@ -443,9 +443,9 @@ MonoBehaviour:
     m_SearchString: 
   m_ActionsTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 092325db
-    m_LastClickedID: -618323191
-    m_ExpandedIDs: 092325dbfe7ebd6f
+    m_SelectedIDs: 925a5f17
+    m_LastClickedID: 392125074
+    m_ExpandedIDs: 092325db7be78af80bffbc234ef2fa3f8e972c5dcb0f8467fe7ebd6f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -462,11 +462,20 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 9}
     m_SearchString: 
   m_ControlPickerViewState:
     m_AdvancedDropdownState:
-      states: []
+      states:
+      - itemId: 371857150
+        selectedIndex: 0
+        scroll: {x: 0, y: 0}
+      - itemId: 403810634
+        selectedIndex: 0
+        scroll: {x: 0, y: 0}
+      - itemId: 378383742
+        selectedIndex: -1
+        scroll: {x: 0, y: 0}
     m_ManualPathEditMode: 0
   m_ActionAssetManager:
     m_AssetObjectForEditing: {fileID: 0}
@@ -486,6 +495,18 @@ MonoBehaviour:
       \"type\": \"Value\",\n                    \"id\": \"f3ff2f66-cf7c-4490-afeb-bc5978375b80\",\n                   
       \"expectedControlType\": \"Axis\",\n                    \"processors\": \"\",\n                   
       \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
+      },\n                {\n                    \"name\": \"HandBreak\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"bf0abc9d-052e-4d8c-9938-485b51664451\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Nitro\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"56e12069-9ecc-4503-8e4d-ed406501f56c\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Oil\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"fb153e49-e6c1-4252-924a-f820116d03ba\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
       }\n            ],\n            \"bindings\": [\n                {\n                   
       \"name\": \"\",\n                    \"id\": \"e6f26858-c7db-43d4-b48a-02ba42d55e50\",\n                   
       \"path\": \"<Keyboard>/upArrow\",\n                    \"interactions\": \"\",\n                   
@@ -542,8 +563,38 @@ MonoBehaviour:
       \"path\": \"<Keyboard>/d\",\n                    \"interactions\": \"\",\n                   
       \"processors\": \"\",\n                    \"groups\": \"\",\n                   
       \"action\": \"Steer\",\n                    \"isComposite\": false,\n                   
-      \"isPartOfComposite\": false\n                }\n            ]\n        }\n   
-      ],\n    \"controlSchemes\": []\n}"
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"1e607542-2095-466b-85fa-cdb25fbbd2b2\",\n                   
+      \"path\": \"<Keyboard>/shift\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Nitro\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"ca7cffa4-93f2-4351-b847-84a950fe6ddf\",\n                   
+      \"path\": \"<Gamepad>/buttonNorth\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"\",\n                    \"action\": \"Nitro\",\n                    \"isComposite\":
+      false,\n                    \"isPartOfComposite\": false\n                },\n               
+      {\n                    \"name\": \"\",\n                    \"id\": \"31a3cc6d-a1da-457e-9c96-15baf0ff55da\",\n                   
+      \"path\": \"<Keyboard>/ctrl\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Oil\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"d6364b0e-f52d-4903-bc46-74f7c2d70953\",\n                   
+      \"path\": \"<Gamepad>/buttonWest\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"\",\n                    \"action\": \"Oil\",\n                    \"isComposite\":
+      false,\n                    \"isPartOfComposite\": false\n                },\n               
+      {\n                    \"name\": \"\",\n                    \"id\": \"1e04cb76-e44a-4aea-9193-1160760667a2\",\n                   
+      \"path\": \"<Keyboard>/space\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"HandBreak\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"a4b93f82-6a21-46fe-962c-3015e2097fbb\",\n                   
+      \"path\": \"<Gamepad>/buttonEast\",\n                    \"interactions\":
+      \"\",\n                    \"processors\": \"\",\n                    \"groups\":
+      \"\",\n                    \"action\": \"HandBreak\",\n                   
+      \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
+      }\n            ]\n        }\n    ],\n    \"controlSchemes\": []\n}"
     m_IsDirty: 0
   m_Toolbar:
     m_IsDirty: 0
@@ -1087,10 +1138,10 @@ MonoBehaviour:
       displayed: 1
       id: unity-scene-view-camera-mode-toolbar
       index: 1
-      contents: '{"m_Layout":1,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":24.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      contents: '{"m_Layout":1,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":24.0,"y":24.66666603088379},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
-      snapOffset: {x: 24, y: 0}
+      snapOffset: {x: 24, y: 24.666666}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       layout: 1
@@ -1165,9 +1216,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -3.630171, y: 26.071556, z: -35.96953}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: -3.630171, y: 26.071556, z: -35.96953}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1213,13 +1264,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3517348, y: 0.014536092, z: -0.0045615314, w: -0.9364017}
+    m_Target: {x: -0.23155163, y: -0.7473972, z: 0.32614768, w: -0.53133094}
     speed: 2
-    m_Value: {x: -0.3515946, y: 0.014530298, z: -0.004559713, w: -0.9360285}
+    m_Value: {x: -0.23144709, y: -0.74705976, z: 0.32600042, w: -0.53109103}
   m_Size:
-    m_Target: 53.657803
+    m_Target: 3.7489398
     speed: 2
-    m_Value: 53.657803
+    m_Value: 3.7489398
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1272,9 +1323,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 358.6667
-    y: 904.6667
+    y: 834
     width: 1452
-    height: 446.33337
+    height: 517.00006
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1308,9 +1359,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 358.6667
-    y: 904.6667
+    y: 834
     width: 1452
-    height: 446.33337
+    height: 517.00006
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1324,16 +1375,16 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_ViewTransforms:
     m_KeySerializationHelper:
-    - {fileID: 1650592840658433952, guid: 55edeb7c5dfda1f45a94715f63e26f19, type: 2}
+    - {fileID: 8214964325775335810, guid: 0ee742e863a92bf4a8ea14d9eb9f6332, type: 2}
     m_ValueSerializationHelper:
     - e00: 1
       e01: 0
       e02: 0
-      e03: 0
+      e03: 48.333374
       e10: 0
       e11: 1
       e12: 0
-      e13: 0
+      e13: 154
       e20: 0
       e21: 0
       e22: 1
@@ -1343,9 +1394,9 @@ MonoBehaviour:
       e32: 0
       e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 55edeb7c5dfda1f45a94715f63e26f19, type: 2}
+  m_AnimatorController: {fileID: 9100000, guid: 0ee742e863a92bf4a8ea14d9eb9f6332, type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: 1650592840658433952, guid: 55edeb7c5dfda1f45a94715f63e26f19, type: 2}
+  - m_Target: {fileID: 8214964325775335810, guid: 0ee742e863a92bf4a8ea14d9eb9f6332, type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
@@ -1407,25 +1458,34 @@ MonoBehaviour:
       zoom: 1
     selectionHistory:
       backList:
-      - fsmComponentID: -4564
+      - fsmComponentID: -2268
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -4258
+      - fsmComponentID: -2266
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -18322
+      - fsmComponentID: -1770
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -18822
+      - fsmComponentID: 0
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 11400000, guid: 9049ee60129204e0e8ec2e89aba4c96d, type: 2}
+      - fsmComponentID: -2264
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -6898
+      - fsmComponentID: 44730
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -11112
+      - fsmComponentID: -1768
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -4264
+      - fsmComponentID: -1766
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1772
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1764
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
       - fsmComponentID: 0
@@ -1434,18 +1494,15 @@ MonoBehaviour:
       - fsmComponentID: 0
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 11400000, guid: 16714ff9ec79b4d18b4342af800c6153, type: 2}
-      - fsmComponentID: 0
-        fsmComponent: {fileID: 0}
-        fsmTemplate: {fileID: 11400000, guid: 9049ee60129204e0e8ec2e89aba4c96d, type: 2}
       forwardList: []
       selectionCache:
       - fsmComponentID: 0
         fsmTemplate: {fileID: 11400000, guid: 9049ee60129204e0e8ec2e89aba4c96d, type: 2}
-        stateName: Create Crash sprite in the world
+        stateName: is it already active
         stateNames:
-        - Create Crash sprite in the world
-        transitionIndex: 0
-        scrollPosition: {x: -48, y: -72}
+        - is it already active
+        transitionIndex: -1
+        scrollPosition: {x: -114.66669, y: -2.6666565}
         zoom: 1
       - fsmComponentID: 0
         fsmTemplate: {fileID: 11400000, guid: 16714ff9ec79b4d18b4342af800c6153, type: 2}
@@ -1463,7 +1520,55 @@ MonoBehaviour:
         transitionIndex: 0
         scrollPosition: {x: 844, y: 254}
         zoom: 1
-      - fsmComponentID: -4258
+      - fsmComponentID: -1764
+        fsmTemplate: {fileID: 0}
+        stateName: -DONE-
+        stateNames:
+        - -DONE-
+        transitionIndex: -1
+        scrollPosition: {x: -137.33325, y: 1209.1665}
+        zoom: 1
+      - fsmComponentID: -1772
+        fsmTemplate: {fileID: 0}
+        stateName: Front Wheel Mesh animation
+        stateNames:
+        - Front Wheel Mesh animation
+        transitionIndex: -1
+        scrollPosition: {x: -287, y: 194.5}
+        zoom: 1
+      - fsmComponentID: -1766
+        fsmTemplate: {fileID: 0}
+        stateName: Steering
+        stateNames:
+        - Steering
+        transitionIndex: -1
+        scrollPosition: {x: -36, y: -63}
+        zoom: 1
+      - fsmComponentID: -1770
+        fsmTemplate: {fileID: 0}
+        stateName: Wait for Setup
+        stateNames:
+        - Wait for Setup
+        transitionIndex: -1
+        scrollPosition: {x: 90.416504, y: 119.83334}
+        zoom: 1
+      - fsmComponentID: -1768
+        fsmTemplate: {fileID: 0}
+        stateName: -Speed-
+        stateNames:
+        - -Speed-
+        transitionIndex: -1
+        scrollPosition: {x: -209.99988, y: -1.0000305}
+        zoom: 1
+      - fsmComponentID: -2264
+        fsmTemplate: {fileID: 0}
+        stateName: Setup
+        stateNames:
+        - Setup
+        transitionIndex: -1
+        scrollPosition: {x: -36, y: -63}
+        zoom: 1
+      - fsmComponentID: 44730
         fsmTemplate: {fileID: 0}
         stateName: -DONE-
         stateNames:
@@ -1471,74 +1576,51 @@ MonoBehaviour:
         transitionIndex: -1
         scrollPosition: {x: -36, y: -63}
         zoom: 1
-      - fsmComponentID: -4264
+      - fsmComponentID: -2266
         fsmTemplate: {fileID: 0}
-        stateName: Wait for CarController
+        stateName: -DeActive-
         stateNames:
-        - Wait for CarController
-        transitionIndex: 0
-        scrollPosition: {x: -36, y: 177}
-        zoom: 1
-      - fsmComponentID: -11112
-        fsmTemplate: {fileID: 0}
-        stateName: Find
-        stateNames:
-        - Find
-        transitionIndex: 0
-        scrollPosition: {x: 12, y: -63}
-        zoom: 1
-      - fsmComponentID: -6898
-        fsmTemplate: {fileID: 0}
-        stateName: GET
-        stateNames:
-        - GET
-        transitionIndex: 0
-        scrollPosition: {x: -36, y: -63}
-        zoom: 1
-      - fsmComponentID: -18822
-        fsmTemplate: {fileID: 0}
-        stateName: -DONE-
-        stateNames:
-        - -DONE-
+        - -DeActive-
         transitionIndex: -1
-        scrollPosition: {x: -36, y: -63}
+        scrollPosition: {x: -20, y: -63}
         zoom: 1
-      - fsmComponentID: -18322
+      - fsmComponentID: -2268
         fsmTemplate: {fileID: 0}
-        stateName: -DONE-
+        stateName: set animation
         stateNames:
-        - -DONE-
+        - set animation
         transitionIndex: -1
-        scrollPosition: {x: -274, y: 1986.5}
-        zoom: 1
-      - fsmComponentID: -4564
-        fsmTemplate: {fileID: 0}
-        stateName: Get Axis
-        stateNames:
-        - Get Axis
-        transitionIndex: -1
-        scrollPosition: {x: -36, y: -63}
+        scrollPosition: {x: -39.335938, y: -65.00781}
         zoom: 1
       recentlySelectedList:
-      - fsmComponentID: -4564
+      - fsmComponentID: -2268
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -4258
+      - fsmComponentID: -2266
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -18322
+      - fsmComponentID: -1770
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -18822
+      - fsmComponentID: 0
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 11400000, guid: 9049ee60129204e0e8ec2e89aba4c96d, type: 2}
+      - fsmComponentID: -2264
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -6898
+      - fsmComponentID: 44730
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -11112
+      - fsmComponentID: -1768
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
-      - fsmComponentID: -4264
+      - fsmComponentID: -1766
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1772
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -1764
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
       - fsmComponentID: 0
@@ -1547,9 +1629,6 @@ MonoBehaviour:
       - fsmComponentID: 0
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 11400000, guid: 16714ff9ec79b4d18b4342af800c6153, type: 2}
-      - fsmComponentID: 0
-        fsmComponent: {fileID: 0}
-        fsmTemplate: {fileID: 11400000, guid: 9049ee60129204e0e8ec2e89aba4c96d, type: 2}
 --- !u!114 &23
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1589,20 +1668,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 30eeffff
-      m_LastClickedID: -4560
-      m_ExpandedIDs: 72b8ffff48efffff62efffff4afaffffd8faffff
+      m_SelectedIDs: 30f7ffff
+      m_LastClickedID: -2256
+      m_ExpandedIDs: fcf5ffff10f6ffff34f6ffff06f7ffff0af7ffff14f7ffff22f7ffff30f7ffff1ef9ffffd8faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Race_START
-        m_OriginalName: Race_START
+        m_Name: CrashSprite(Clone)
+        m_OriginalName: CrashSprite(Clone)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -11108
+        m_UserData: -350132
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -1662,7 +1741,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/CarSetupForPlaymaker_v1.4.3/Materials
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1680,7 +1760,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: a66d0000
     m_LastClickedID: 28070
-    m_ExpandedIDs: 000000009ead0000ceb00000d0b00000d2b00000d4b00000d6b00000d8b00000dab00000dcb00000deb00000e0b00000e2b00000e4b00000e6b00000e8b00000eab00000ecb00000eeb00000f0b00000f2b00000f4b00000f6b00000f8b00000
+    m_ExpandedIDs: 0000000002b40000e2c300005ec5000060c5000062c5000064c5000066c5000068c500006ac500006cc500006ec5000070c5000072c5000074c5000076c5000078c500007ac500007cc500007ec5000080c5000082c5000084c5000086c5000088c500008ac500008cc500008ec5000090c5000092c50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1706,10 +1786,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 60}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000009ead0000ceb00000d0b00000d2b00000d4b00000d6b00000d8b00000dab00000dcb00000deb00000e0b00000e2b00000e4b00000e6b00000e8b00000eab00000ecb00000eeb00000f0b00000f2b00000f4b00000f6b00000f8b00000b0b10000dab10000
+    m_ExpandedIDs: ffffffff0000000002b40000e2c300005ec5000060c5000062c5000064c5000066c5000068c500006ac500006cc500006ec5000070c5000072c5000074c5000076c5000078c500007ac500007cc500007ec5000080c5000082c5000084c5000086c5000088c500008ac500008cc500008ec5000090c5000092c500006cc6000072c60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
