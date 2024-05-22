@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8eb9dce69187cb34d93af0b86eb4e034
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7279
+  packageName: Ultimate Rope Editor
+  packageVersion: 1.40
+  assetPath: Assets/Ultimate Game Tools/RopeEditor/Sample Scenes/Sample Scripts/LogicLamp.cs
+  uploadId: 652395

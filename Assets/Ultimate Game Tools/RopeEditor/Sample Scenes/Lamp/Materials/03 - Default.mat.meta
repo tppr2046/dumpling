@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 199907ea3e2895341a1118d7718eaf3f
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7279
+  packageName: Ultimate Rope Editor
+  packageVersion: 1.40
+  assetPath: Assets/Ultimate Game Tools/RopeEditor/Sample Scenes/Lamp/Materials/03
+    - Default.mat
+  uploadId: 652395
