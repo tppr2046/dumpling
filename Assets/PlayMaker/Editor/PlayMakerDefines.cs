@@ -112,10 +112,10 @@ namespace HutongGames.PlayMakerEditor
         private static PipelineType GetPipeline()
         {
 #if UNITY_2019_1_OR_NEWER
-        if (GraphicsSettings.defaultRenderPipeline != null)
+        if (GraphicsSettings.renderPipelineAsset != null)
         {
             // SRP
-            var srpType = GraphicsSettings.defaultRenderPipeline.GetType().ToString();
+            var srpType = GraphicsSettings.renderPipelineAsset.GetType().ToString();
             if (srpType.Contains("HDRenderPipelineAsset"))
             {
                 return PipelineType.HDPipeline;

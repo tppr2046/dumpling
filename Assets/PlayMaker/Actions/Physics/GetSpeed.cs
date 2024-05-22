@@ -53,7 +53,7 @@ namespace HutongGames.PlayMaker.Actions
 			var go = gameObject.OwnerOption == OwnerDefaultOption.UseOwner ? Owner : gameObject.GameObject.Value;
 		    if (UpdateCache(go))
 		    {
-                var velocity = rigidbody.linearVelocity;
+                var velocity = rigidbody.velocity;
                 storeResult.Value = velocity.magnitude;
 		    }
 		}

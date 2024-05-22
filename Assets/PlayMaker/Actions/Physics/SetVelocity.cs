@@ -94,8 +94,8 @@ namespace HutongGames.PlayMaker.Actions
 			if (vector.IsNone)
 			{
 				velocity = space == Space.World ?
-					rigidbody.linearVelocity : 
-					cachedTransform.InverseTransformDirection(rigidbody.linearVelocity);
+					rigidbody.velocity : 
+					cachedTransform.InverseTransformDirection(rigidbody.velocity);
 			}
 			else
 			{
@@ -110,7 +110,7 @@ namespace HutongGames.PlayMaker.Actions
 
 			// apply
 			
-			rigidbody.linearVelocity = space == Space.World ? velocity : cachedTransform.TransformDirection(velocity);
+			rigidbody.velocity = space == Space.World ? velocity : cachedTransform.TransformDirection(velocity);
 		}
 	}
 }

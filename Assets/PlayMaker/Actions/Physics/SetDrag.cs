@@ -49,7 +49,7 @@ namespace HutongGames.PlayMaker.Actions
 			var go = Fsm.GetOwnerDefaultTarget(gameObject);
 		    if (UpdateCache(go))
 		    {
-                rigidbody.linearDamping = drag.Value;
+                rigidbody.drag = drag.Value;
 		    }
 		}
 	}

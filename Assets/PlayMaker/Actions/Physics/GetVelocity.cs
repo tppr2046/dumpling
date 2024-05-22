@@ -87,7 +87,7 @@ namespace HutongGames.PlayMaker.Actions
 		        return;
 		    }
 
-			var velocity = rigidbody.linearVelocity;
+			var velocity = rigidbody.velocity;
 		    if (space == Space.Self)
 		    {
 		        velocity = go.transform.InverseTransformDirection(velocity);
