@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e22f50028cd3c464c9d59b10f7036c20
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7279
+  packageName: Ultimate Rope Editor
+  packageVersion: 1.40
+  assetPath: Assets/Ultimate Game Tools/RopeEditor/Sample Scenes/Sample Scripts/DieTimer.cs
+  uploadId: 652395

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: df2727883101ea9458f280fe5caae0ce
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7279
+  packageName: Ultimate Rope Editor
+  packageVersion: 1.40
+  assetPath: Assets/Ultimate Game Tools/RopeEditor/Sample Scenes/Sample Scripts/FPSObjectShooter.cs
+  uploadId: 652395

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 289c96a408e09ce4c91b666c75f8034c
+timeCreated: 1442871789
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7279
+  packageName: Ultimate Rope Editor
+  packageVersion: 1.40
+  assetPath: Assets/Ultimate Game Tools/RopeEditor/Sample Scenes/Crate/Materials/D.mat
+  uploadId: 652395
