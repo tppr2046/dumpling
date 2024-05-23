@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac5e98536a6719e4fbbf79bbf20f57fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6475696996188705980
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157318
+  packageName: Japanese Common Pool
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/pool/LightingData.asset
+  uploadId: 337830

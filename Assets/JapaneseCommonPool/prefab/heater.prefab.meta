@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35e48bf03b5c97f4d97d3520914fe4a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157318
+  packageName: Japanese Common Pool
+  packageVersion: 1.0
+  assetPath: Assets/JapaneseCommonPool/prefab/heater.prefab
+  uploadId: 337830

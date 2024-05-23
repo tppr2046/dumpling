@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d85c248c6109d94e97f4d9fc1849dce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157318
+  packageName: Japanese Common Pool
+  packageVersion: 1.0
+  assetPath: Assets/JapaneseCommonPool/prefab/ventilationfan.prefab
+  uploadId: 337830

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 723a89df23f4bbf42bad90e8e1640ff6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157318
+  packageName: Japanese Common Pool
+  packageVersion: 1.0
+  assetPath: Assets/JapaneseCommonPool/prefab/tap.prefab
+  uploadId: 337830

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 34d77e7fe5d709b4b989e7873e772a09
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157318
+  packageName: Japanese Common Pool
+  packageVersion: 1.0
+  assetPath: Assets/JapaneseCommonPool/prefab/controllpanel.prefab
+  uploadId: 337830

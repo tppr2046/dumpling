@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 721010a954b4b5f41b953cd571c1fd9d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157318
+  packageName: Japanese Common Pool
+  packageVersion: 1.0
+  assetPath: Assets/JapaneseCommonPool/material/stonebricks.mat
+  uploadId: 337830

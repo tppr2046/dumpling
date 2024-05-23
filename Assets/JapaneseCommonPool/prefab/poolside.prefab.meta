@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5575f88be57d6814ca3f8b8ef1ac4e4a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157318
+  packageName: Japanese Common Pool
+  packageVersion: 1.0
+  assetPath: Assets/JapaneseCommonPool/prefab/poolside.prefab
+  uploadId: 337830
