@@ -11449,6 +11449,7 @@ GameObject:
   - component: {fileID: 7553102}
   - component: {fileID: 5928720652404668227}
   - component: {fileID: 6716129232630768446}
+  - component: {fileID: 4663008354555043180}
   m_Layer: 10
   m_Name: Offroad01
   m_TagString: Car
@@ -11849,7 +11850,7 @@ MonoBehaviour:
     manualUpdate: 0
     outVariableIndices: 
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     OutputEvents: []
     RestartOnEnable: 1
@@ -11909,9 +11910,9 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 80
-        y: 112
-        width: 219
+        x: 52
+        y: 103
+        width: 217
         height: 16
       isBreakpoint: 0
       isSequence: 0
@@ -11933,7 +11934,7 @@ MonoBehaviour:
         unityObjectParams: []
         fsmGameObjectParams:
         - useVariable: 1
-          name: 
+          name: MainCam_g
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -11957,7 +11958,7 @@ MonoBehaviour:
           networkSync: 0
           value: {fileID: 0}
         - useVariable: 1
-          name: 
+          name: CrashSprite_g
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -11966,7 +11967,7 @@ MonoBehaviour:
         - ownerOption: 1
           gameObject:
             useVariable: 1
-            name: 
+            name: CrashSprite_g
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -12041,9 +12042,9 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 272
-        y: 320
-        width: 100
+        x: 259
+        y: 311
+        width: 101
         height: 32
       isBreakpoint: 0
       isSequence: 0
@@ -12111,7 +12112,7 @@ MonoBehaviour:
           networkSync: 0
           value: {x: 0, y: 0, z: 0}
         - useVariable: 1
-          name: 
+          name: Position_v
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -12146,9 +12147,9 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 416
-        y: 336
-        width: 223
+        x: 403
+        y: 327
+        width: 222
         height: 32
       isBreakpoint: 0
       isSequence: 0
@@ -12183,7 +12184,7 @@ MonoBehaviour:
         unityObjectParams: []
         fsmGameObjectParams:
         - useVariable: 1
-          name: 
+          name: MainCam_g
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -12192,7 +12193,7 @@ MonoBehaviour:
         - ownerOption: 1
           gameObject:
             useVariable: 1
-            name: 
+            name: CrashSprite_g
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -12200,7 +12201,7 @@ MonoBehaviour:
         - ownerOption: 1
           gameObject:
             useVariable: 1
-            name: 
+            name: CrashSprite_g
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -12208,7 +12209,7 @@ MonoBehaviour:
         - ownerOption: 1
           gameObject:
             useVariable: 1
-            name: 
+            name: CrashSprite_g
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -12305,7 +12306,7 @@ MonoBehaviour:
         fsmVector2Params: []
         fsmVector3Params:
         - useVariable: 1
-          name: 
+          name: Position_v
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -12377,8 +12378,8 @@ MonoBehaviour:
       colorIndex: 4
       position:
         serializedVersion: 2
-        x: 528
-        y: 256
+        x: 515
+        y: 247
         width: 100
         height: 16
       isBreakpoint: 0
@@ -12400,7 +12401,7 @@ MonoBehaviour:
         - ownerOption: 1
           gameObject:
             useVariable: 1
-            name: 
+            name: CrashSprite_g
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -12456,9 +12457,9 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 133
+        x: 51
+        y: 247
+        width: 137
         height: 48
       isBreakpoint: 0
       isSequence: 0
@@ -12494,7 +12495,7 @@ MonoBehaviour:
         unityObjectParams: []
         fsmGameObjectParams:
         - useVariable: 1
-          name: 
+          name: CrashSprite_g
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -12548,8 +12549,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 272
-        y: 240
+        x: 259
+        y: 231
         width: 100
         height: 32
       isBreakpoint: 0
@@ -12617,14 +12618,14 @@ MonoBehaviour:
         paramDataPos: 000000000000000000000000
         paramByteDataSize: 000000000000000001000000
     events:
-    - name: COLLISION ENTER
-      isSystemEvent: 1
-      isGlobal: 0
     - name: FINISHED
       isSystemEvent: 1
       isGlobal: 0
     - name: YES
       isSystemEvent: 0
+      isGlobal: 0
+    - name: COLLISION ENTER
+      isSystemEvent: 1
       isGlobal: 0
     globalTransitions:
     - fsmEvent:
@@ -12639,7 +12640,7 @@ MonoBehaviour:
     variables:
       floatVariables:
       - useVariable: 1
-        name: 
+        name: f
         tooltip: 
         showInInspector: 0
         networkSync: 0
@@ -12647,7 +12648,7 @@ MonoBehaviour:
       intVariables: []
       boolVariables:
       - useVariable: 1
-        name: 
+        name: isActive_b
         tooltip: 
         showInInspector: 0
         networkSync: 0
@@ -12656,7 +12657,7 @@ MonoBehaviour:
       vector2Variables: []
       vector3Variables:
       - useVariable: 1
-        name: 
+        name: Position_v
         tooltip: 
         showInInspector: 0
         networkSync: 0
@@ -12666,19 +12667,19 @@ MonoBehaviour:
       quaternionVariables: []
       gameObjectVariables:
       - useVariable: 1
-        name: 
+        name: CrashSprite_g
         tooltip: 
         showInInspector: 0
         networkSync: 0
         value: {fileID: 0}
       - useVariable: 1
-        name: 
+        name: g
         tooltip: 
         showInInspector: 0
         networkSync: 0
         value: {fileID: 0}
       - useVariable: 1
-        name: 
+        name: MainCam_g
         tooltip: 
         showInInspector: 0
         networkSync: 0
@@ -12701,7 +12702,7 @@ MonoBehaviour:
     manualUpdate: 0
     outVariableIndices: 
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     OutputEvents: []
     RestartOnEnable: 1
@@ -12738,6 +12739,20 @@ MonoBehaviour:
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 11400000, guid: 9049ee60129204e0e8ec2e89aba4c96d, type: 2}
   eventHandlerComponentsAdded: 1
+--- !u!114 &4663008354555043180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1079068393, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TargetFSMs:
+  - {fileID: 6716129232630768446}
 --- !u!1 &166960
 GameObject:
   m_ObjectHideFlags: 0

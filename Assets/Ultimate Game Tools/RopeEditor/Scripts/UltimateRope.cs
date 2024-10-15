@@ -462,7 +462,7 @@ public class UltimateRope : MonoBehaviour
     [RopePersistAttribute]  public GameObject           RopeStart;
     [RopePersistAttribute]  public List<RopeNode>       RopeNodes;
     [RopePersistAttribute]  public int                  RopeLayer;
-    [RopePersistAttribute]  public PhysicMaterial       RopePhysicsMaterial;
+    [RopePersistAttribute]  public PhysicsMaterial       RopePhysicsMaterial;
 
                             // Procedural specific parameters
     [RopePersistAttribute]  public float                RopeDiameter                    = 0.1f;

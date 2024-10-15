@@ -178,7 +178,7 @@ public class UltimateRopeEditor : Editor
         }
 
         EditorGUI.BeginChangeCheck();
-        PropRopePhysicsMaterial.objectReferenceValue = EditorGUILayout.ObjectField(new GUIContent("Rope Physic Material", "Physic material assigned to the rope"), PropRopePhysicsMaterial.objectReferenceValue, typeof(PhysicMaterial), false);
+        PropRopePhysicsMaterial.objectReferenceValue = EditorGUILayout.ObjectField(new GUIContent("Rope Physic Material", "Physic material assigned to the rope"), PropRopePhysicsMaterial.objectReferenceValue, typeof(PhysicsMaterial), false);
         if(EditorGUI.EndChangeCheck() && rope.AutoRegenerate)
         {
             bSetupRopeLinks = true;

@@ -732,7 +732,7 @@ Shader "Hidden/ltspass_opaque"
             #pragma skip_variants LIGHTMAP_ON DYNAMICLIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK DIRLIGHTMAP_COMBINED _MIXED_LIGHTING_SUBTRACTIVE
             #define LIL_SRP_VERSION_MAJOR 16
             #define LIL_SRP_VERSION_MINOR 0
-            #define LIL_SRP_VERSION_PATCH 4
+            #define LIL_SRP_VERSION_PATCH 6
 
             #pragma target 4.5
             #pragma fragmentoption ARB_precision_hint_fastest
@@ -1213,7 +1213,7 @@ Shader "Hidden/ltspass_opaque"
             #pragma skip_variants LIGHTMAP_ON DYNAMICLIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK DIRLIGHTMAP_COMBINED _MIXED_LIGHTING_SUBTRACTIVE
             #define LIL_SRP_VERSION_MAJOR 16
             #define LIL_SRP_VERSION_MINOR 0
-            #define LIL_SRP_VERSION_PATCH 4
+            #define LIL_SRP_VERSION_PATCH 6
 
             #pragma target 3.5
             #pragma fragmentoption ARB_precision_hint_fastest
